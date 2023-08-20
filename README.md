@@ -30,3 +30,5 @@ Open-source database is availbal [here](https://docs.github.com/en/get-started/w
 |:memo:  All code scripts used for this project is [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
 |-------------------------------------------|
 
+|:page_facing_up:  Full internship report is [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) |
+|-------------------------------------------|
